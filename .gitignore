@@ -1,3 +1,7 @@
+# rawdata
+rawdata/
+raw_interview_transcripts.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
