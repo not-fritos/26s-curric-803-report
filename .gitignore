@@ -2,6 +2,7 @@
 rawdata/
 raw_interview_transcripts.zip
 individual_transcripts/
+.DS_Store
 *.xlsx
 
 # Byte-compiled / optimized / DLL files
