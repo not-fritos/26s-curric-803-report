@@ -1,0 +1,116 @@
+An
+Ân
+Anh
+Ánh
+Bình
+Bích
+Châm
+Châu
+Chi
+Chinh
+Dao
+Diễm
+Diệp
+Diệu
+Dung
+Duyên
+Dương
+Đào
+Đoan
+Giang
+Hà
+Hạ
+Hạnh
+Hảo
+Hằng
+Hân
+Hiền
+Hoa
+Hòa
+Hoài
+Hồng
+Huệ
+Huyền
+Hương
+Khánh
+Khuê
+Kiều
+Kim
+Lam
+Lan
+Lệ
+Liên
+Liễu
+Linh
+Loan
+Luyến
+Ly
+Mai
+My
+Mỹ
+Na
+Nga
+Ngân
+Nghi
+Ngọc
+Nguyệt
+Nhã
+Nhàn
+Nhi
+Nhiên
+Nhung
+Như
+Oanh
+Phương
+Phượng
+Phụng
+Quyên
+Quỳnh
+Sương
+Tâm
+Thanh
+Thảo
+Thắm
+Thi
+Thoa
+Thu
+Thục
+Thùy
+Thúy
+Thủy
+Thư
+Thương
+Tiên
+Tình
+Trà
+Trang
+Trâm
+Trân
+Trinh
+Trúc
+Tú
+Tuyền
+Tuyết
+Uyên
+Uyển
+Vân
+Vy
+Xuân
+Ý
+Yên
+Yến
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (60555), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (51886), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (58419), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (56828), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (62963), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (77097), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (65553), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (65672), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (59119), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (53877), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (52054), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (48057), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (55840), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (40868), truncated to 32767 characters
+/var/folders/g2/6ym21yr10t96b5wj2y6qr4g40000gn/T/ipykernel_4873/1287431752.py:2: UserWarning: Cell contents too long (63567), truncated to 32767 characters
